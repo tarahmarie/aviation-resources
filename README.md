@@ -1,5 +1,5 @@
-BBC News Slack Code of Conduct
-===============================
+IETF Slack Code of Conduct
+==========================
 
 ## Table of contents
 - [Welcome](#welcome)
