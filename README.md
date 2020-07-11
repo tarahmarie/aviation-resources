@@ -72,15 +72,13 @@ Participants asked to stop any inappropriate behaviour must comply immediately.
 
 If a participant engages in inappropriate behaviour, the admins may take any action they deem appropriate, including warning the offender and removing them from the Slack entirely.
 
-## Message retention
+## Message Retention:
 
-The IETF is currently using a free Slack instance, which means we do not control the retention of our messages.  By default, Slack will only show [the most recent 10,000 messages sent by the group](https://slack.com/help/articles/115002422943-Message-file-and-app-limits-on-the-free-version-of-Slack).  Our intent is for conversations to be treated as ephemeral and non-archival.
-
-Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
+Because this is a free slack account, we have restricted scrollback, but Slack -- the company -- retains complete logs of all channels and direct messages back to the creation of this slack. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
 
 ## Privacy
 
-**Please be mindful that this is a public Slack instance.**  Membership is generally open, and any member can join a public channel.  Direct messages and private channels are still subject to the logging and retention concerns discussed above. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
+**Please be mindful that things you say here may at some point become public.**  Membership is generally open, and any member can join a public channel.  We cannot prevent people from screencapping or otherwise logging this slack. We also can't guarantee that every member's login credentials and logged-in devices are secure. Files uploaded here can be downloaded by anyone with a login. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
 
 ## Credits and license
 
