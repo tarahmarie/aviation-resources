@@ -58,7 +58,7 @@ Examples of unacceptable behaviour include:
 	* The use of racially charged language to describe an individual or thing such as "thug" or “ghetto”
 	* Referring to an individual in a way that demeans or challenges the validity of their racial identity
 	* Mocking someone’s real or perceived accent or first language.
-* Retaliating against anyone who files a complaint that someone has violated these Ways of Working or the BBC Code of Conduct.
+* Retaliating against anyone who files a complaint that someone has violated this Code of Conduct.
 
 ## Reporting
 
