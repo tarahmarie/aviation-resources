@@ -76,6 +76,8 @@ If a participant engages in inappropriate behaviour, the admins may take any act
 
 Because this is a free slack account, we have restricted scrollback, but Slack -- the company -- retains complete logs of all channels and direct messages back to the creation of this slack. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
 
+Since this Slack is intended to replace informal hallway conversations at an IETF meeting, messages sent here are generally intended to be ephemeral. They will not be retained or included in IETF meeting proceedings. Messages in this Slack are not considered [IETF Contributions](https://tools.ietf.org/html/rfc5378#section-1).
+
 ## Privacy
 
 **Please be mindful that things you say here may at some point become public.**  Membership is generally open, and any member can join a public channel.  We cannot prevent people from screencapping or otherwise logging this slack. We also can't guarantee that every member's login credentials and logged-in devices are secure. Files uploaded here can be downloaded by anyone with a login. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
