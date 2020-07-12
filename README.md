@@ -13,11 +13,11 @@ IETF Slack Code of Conduct
 
 ## Welcome!
 
-The IETF has an [Anti-Harrassment Policy](https://www.ietf.org/about/groups/iesg/statements/anti-harassment-policy/) that describes the baseline expectations we have for participants in the IETF.  This document provides a Code of Conduct for the IETF Slack instance, which augments the anti-harrassment policy to make sure our Slack is a healthy and productive place for working together.  It specifically seeks to provide a welcoming, fun and productive environment for everyone.
+The IETF has an [Anti-Harrassment Policy](https://tools.ietf.org/html/bcp25) and a [Code of Conduct](https://tools.ietf.org/html/bcp54) that describes the baseline expectations we have for participants in the IETF.  This document provides a Code of Conduct for the IETF Slack instance, which augments the anti-harrassment policy to make sure our Slack is a healthy and productive place for working together.  It specifically seeks to provide a welcoming, fun and productive environment for everyone.
 
 We expect members of the IETF community to act in a way that creates and nurtures an environment which is harassment-free, safe, comfortable, and enjoyable to be a part of, whoever you are. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behaviour are expected to comply immediately. We work hard on improving our plans, code, communications and designs - and we work just as hard on our culture. It is a work in progress, and this Code of Conduct is intended to help us hold to high standards and provide a clear framework for doing that.
 
-The list of current admins can be found here: https://ietf.slack.com/account/workspace-settings#admins.
+Conversations in this Slack that are related to IETF standards count as IETF Contributions, so partcipants should keep in mind the copyright and patent provisions in [BCP 78](https://tools.ietf.org/html/bcp78) and [BCP 79](https://tools.ietf.org/html/bcp79).
 
 ## Expected Behaviours
 
@@ -76,9 +76,11 @@ If a participant engages in inappropriate behaviour, the admins may take any act
 
 Because this is a free slack account, we have restricted scrollback, but Slack -- the company -- retains complete logs of all channels and direct messages back to the creation of this slack. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
 
-Since this Slack is intended to replace informal hallway conversations at an IETF meeting, messages sent here are generally intended to be ephemeral. They will not be retained or included in IETF meeting proceedings. Messages in this Slack are not considered [IETF Contributions](https://tools.ietf.org/html/rfc5378#section-1).
+Since this Slack is intended to replace informal hallway conversations at an IETF meeting, messages sent here are generally intended to be ephemeral. They will not be retained or included in IETF meeting proceedings.
 
 ## Privacy
+
+In general, messages exchanged in this Slack are subject to the [IETF Privacy Policy](https://www.ietf.org/privacy-statement/)
 
 **Please be mindful that things you say here may at some point become public.**  Membership is generally open, and any member can join a public channel.  We cannot prevent people from screencapping or otherwise logging this slack. We also can't guarantee that every member's login credentials and logged-in devices are secure. Files uploaded here can be downloaded by anyone with a login. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
 
