@@ -72,7 +72,7 @@ Participants asked to stop any inappropriate behaviour must comply immediately.
 
 If a participant engages in inappropriate behaviour, the admins may take any action they deem appropriate, including warning the offender and removing them from the Slack entirely.
 
-## Message Retention:
+## Message Retention
 
 Because this is a free slack account, we have restricted scrollback, but Slack -- the company -- retains complete logs of all channels and direct messages back to the creation of this slack. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
 
