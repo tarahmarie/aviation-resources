@@ -17,7 +17,7 @@ The IETF has an [Anti-Harrassment Policy](https://tools.ietf.org/html/bcp25) and
 
 We expect members of the IETF community to act in a way that creates and nurtures an environment which is harassment-free, safe, comfortable, and enjoyable to be a part of, whoever you are. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behaviour are expected to comply immediately. We work hard on improving our plans, code, communications and designs - and we work just as hard on our culture. It is a work in progress, and this Code of Conduct is intended to help us hold to high standards and provide a clear framework for doing that.
 
-Conversations in this Slack that are related to IETF standards count as IETF Contributions, so partcipants should keep in mind the copyright and patent provisions in [BCP 78](https://tools.ietf.org/html/bcp78) and [BCP 79](https://tools.ietf.org/html/bcp79).
+Conversations in this Slack that are related to IETF standards count as IETF Contributions, so participants should keep in mind the copyright and patent provisions in [BCP 78](https://tools.ietf.org/html/bcp78) and [BCP 79](https://tools.ietf.org/html/bcp79).
 
 ## Expected Behaviours
 
