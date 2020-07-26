@@ -1,4 +1,4 @@
-IETF Slack Code of Conduct
+Flight Academy Slack Code of Conduct
 ==========================
 
 ## Table of contents
@@ -13,7 +13,7 @@ IETF Slack Code of Conduct
 
 ## Welcome!
 
-The IETF has an [Anti-Harrassment Policy](https://tools.ietf.org/html/bcp25) and a [Code of Conduct](https://tools.ietf.org/html/bcp54) that describes the baseline expectations we have for participants in the IETF.  This document provides a Code of Conduct for the IETF Slack instance, which augments the anti-harrassment policy to make sure our Slack is a healthy and productive place for working together.  It specifically seeks to provide a welcoming, fun and productive environment for everyone.
+This document provides a Code of Conduct for the Flight Academy Slack instance, which augments the anti-harrassment policy to make sure our Slack is a healthy and productive place for working together.  It specifically seeks to provide a welcoming, fun and productive environment for everyone.
 
 We expect members of the IETF community to act in a way that creates and nurtures an environment which is harassment-free, safe, comfortable, and enjoyable to be a part of, whoever you are. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behaviour are expected to comply immediately. We work hard on improving our plans, code, communications and designs - and we work just as hard on our culture. It is a work in progress, and this Code of Conduct is intended to help us hold to high standards and provide a clear framework for doing that.
 
