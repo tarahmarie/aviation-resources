@@ -4,7 +4,7 @@ Flight Academy Slack Code of Conduct
 ## Table of contents
 - [Welcome](#welcome)
 - [What we strive for](#what-we-strive-for)
-- [Unacceptable behaviour](#unacceptable-behaviour)
+- [Unacceptable behavior](#unacceptable-behavior)
 - [Reporting](#reporting)
 - [Consequences](#consequences)
 - [Message retention](#message-retention)
@@ -13,43 +13,44 @@ Flight Academy Slack Code of Conduct
 
 ## Welcome!
 
-This document provides a Code of Conduct for the Flight Academy Slack instance, which augments the anti-harrassment policy to make sure our Slack is a healthy and productive place for working together.  It specifically seeks to provide a welcoming, fun and productive environment for everyone.
+This document provides a Code of Conduct for the Flight Academy Slack instance, which augments the anti-harassment policy to make sure our Slack is a healthy and productive place for working together.  It specifically seeks to provide a welcoming, fun and productive environment for everyone.
 
-We expect members of the IETF community to act in a way that creates and nurtures an environment which is harassment-free, safe, comfortable, and enjoyable to be a part of, whoever you are. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behaviour are expected to comply immediately. We work hard on improving our plans, code, communications and designs - and we work just as hard on our culture. It is a work in progress, and this Code of Conduct is intended to help us hold to high standards and provide a clear framework for doing that.
+We expect members of the Flight Academy community to act in a way that creates and nurtures an environment which is harassment-free, safe, comfortable, and enjoyable to be a part of, whoever you are. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately. We work hard on improving our plans, code, communications and designs - and we work just as hard on our culture. It is a work in progress, and this Code of Conduct is intended to help us hold to high standards and provide a clear framework for doing that.
 
-Conversations in this Slack that are related to IETF standards count as IETF Contributions, so participants should keep in mind the copyright and patent provisions in [BCP 78](https://tools.ietf.org/html/bcp78) and [BCP 79](https://tools.ietf.org/html/bcp79).
+We as aviators are used to reviewing and reflecting on our actions to improve for the future and to pass on lessons learned, and this Code of Conduct helps us do that as we relate to each other, not just as we fly planes.
 
-## Expected Behaviours
 
-We strive to create a welcoming and inclusive culture, one that nurtures the positive working relationships which help us break out of silos and strictures and create a better Internet. We want to support diversity in our teams, our thinking and ultimately in the Internet itself. We support an open exchange of ideas and we believe the following guidelines will help create spaces where everyone who is part of the IETF can feel confident that their input is valued and heard. By doing so we will help ensure we build the Internet we can, and maximise the impact of our work.
+## Expected Behaviors
+
+We strive to create a welcoming and inclusive culture, one that nurtures the positive traits of the best aviators. We want to support diversity in our community, our thinking, and ultimately in the larger general and commercial aviation communities. We support an open exchange of ideas and we believe the following guidelines will help create spaces where everyone can learn. 
 
 It would be impossible to list everything needed to create a welcoming, supportive space, but we encourage you to embrace these principles:
 
-1. Generosity is the foundation of good collaboration; assume competence in each other.
-2. Give and receive criticism with grace. Recognise good critiques are kind, clear, and constructive. Focus on goals and requirements rather than personal preferences.
-3. Be polite, humble and friendly. Practice empathy and humility.
-4. Listen carefully and actively. Seek to understand each other's context - ask questions because you want to hear the answer.
-5. Earn your audience. Every act of speech requires an act of listening; create an environment where people are encouraged to listen as much as they speak.
-6. Respect each others' time by doing research before asking questions that have been addressed before or in other channels.
+1. Generosity is the foundation of good learning; assume competence in each other.
+2. Be polite, humble and friendly. Practice empathy and humility.
+3. Listen carefully and actively. Seek to understand each other's context - ask questions because you want to hear the answer.
+4. Every act of speech requires an act of listening; create an environment where people are encouraged to listen as much as they speak.
+5. Respect each others' time by doing research before asking questions that have been addressed before or in other channels.
+6. If you are a more senior pilot, consider that more junior pilots may want to learn on their own or do the research first before you provide them with information or unasked-for instruction. Let them ask first, or ask if they would like your thoughts. This helps to promote a culture of equity and respect for the level everyone is coming from.
 
-## Unacceptable behaviour
+## Unacceptable behavior
 
-To help participants understand behaviours that are unacceptable or run counter to our culture, we’ve listed below actions that violate our Ways of Working.
+To help participants understand behaviors that are unacceptable or run counter to our culture, we’ve listed below actions that violate our community's standards.
 
-This list does not cover every case. Each person you interact with is unique, and as a result can define a line of unacceptable behaviour that’s unique to them. Ensuring that your behaviour does not have a negative impact is your responsibility.
+This list does not cover every case. Each person you interact with is unique, and as a result can define a line of unacceptable behavior that’s unique to them. Ensuring that your behavior does not have a negative impact is your responsibility.
 
-Examples of unacceptable behaviour include:
+Examples of unacceptable behavior include:
 
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, age, body size, race, or religion.
 * Unwelcome comments regarding a person’s lifestyle practices, including those related to food, health, parenting, drugs, employment, and political views.
-* Gratuitous or off-topic sexual remarks, images or behaviour
+* Gratuitous or off-topic sexual remarks, images or behavior
 * Deliberate intimidation
 * Sustained disruption of discussion
 * Inappropriate attention or contact. Be aware of how your actions affect others. If it makes someone uncomfortable, stop.
 * Unwanted publication of private communication
 * Intentionally or repeatedly referring to people in a way that rejects the validity of their gender identity; for instance, by using incorrect pronouns or forms of address (misgendering).
 * Microaggressions, which are small comments or questions, either intentional or unintentional, that marginalize people by communicating hostile, derogatory, or negative beliefs. Examples include:
-	* Patronizing language or behaviour
+	* Patronizing language or behavior
 	* Pedantic corrections that don’t contribute to the conversation (For example: “Well actually’s…")
 	* Assuming without asking that particular people or groups need concepts defined or explained to them. (It’s great to be sensitive to the fact that people may not be familiar with technical terms you use every day. But assuming that people are uninformed can come across as patronizing.)
 	* Assuming that particular groups of people are technically unskilled ("So easy your grandmother could do it.")
@@ -62,27 +63,26 @@ Examples of unacceptable behaviour include:
 
 ## Reporting
 
-If you witness any inappropriate behaviour, or have any other concerns, please contact [the admins](https://ietf.slack.com/account/workspace-settings#admins) by sending them a direct message. They'll respond as promptly as they can.
+If you witness any inappropriate behavior, or have any other concerns, please contact [the admins](https://flightacademy.slack.com/account/workspace-settings#admins) by sending them a direct message. They'll respond as promptly as they can.
 
-The admins will respect confidentiality around issues. We will not name harassment victims without their affirmative consent. We may suggest that certain issues be escalated to the [IETF Ombudsteam](https://www.ietf.org/contact/ombudsteam/). 
+The admins will respect confidentiality around issues. We will not name harassment victims without their affirmative consent.
 
 ## Consequences
 
-Participants asked to stop any inappropriate behaviour must comply immediately.
+Participants asked to stop any inappropriate behavior must comply immediately.
 
-If a participant engages in inappropriate behaviour, the admins may take any action they deem appropriate, including warning the offender and removing them from the Slack entirely.
+If a participant engages in inappropriate behavior, the admins may take any action they deem appropriate, including warning the offender and removing them from the Slack entirely.
 
 ## Message Retention
 
 Because this is a free slack account, we have restricted scrollback, but Slack -- the company -- retains complete logs of all channels and direct messages back to the creation of this slack. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
 
-Since this Slack is intended to replace informal hallway conversations at an IETF meeting, messages sent here are generally intended to be ephemeral. They will not be retained or included in IETF meeting proceedings.
+Since this Slack is intended to replace informal hallway/coffee hour conversations among pilots and aviation enthusiasts, messages sent here are generally intended to be ephemeral, as conversations would be. They will not be retained past the free Slack 10,000 message limit, and will expire as they're replaced by new messages.
 
 ## Privacy
 
-In general, messages exchanged in this Slack are subject to the [IETF Privacy Policy](https://www.ietf.org/privacy-statement/)
 
-**Please be mindful that things you say here may at some point become public.**  Membership is generally open, and any member can join a public channel.  We cannot prevent people from screencapping or otherwise logging this slack. We also can't guarantee that every member's login credentials and logged-in devices are secure. Files uploaded here can be downloaded by anyone with a login. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
+**Please be mindful that things you say here may at some point become public.**  Membership is generally open, and any member can join a public channel.  We cannot prevent people from screencapping or otherwise logging this slack. We also can't guarantee that every member's login credentials and logged-in devices are secure. Files uploaded here can be downloaded by anyone with a login. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public. Be aware that we are all informed by and governed by the aviation administrations of our relative countries, such as the FAA and EASA. While this Slack is ephemeral and conversations will eventually expire, there is no guarantee of privacy if you post or speak about something here that may lead members of this Slack to believe that you would or intend to pilot a plane in an unsafe or illegal manner. There is no expectation that people should or must report you, but there is also no expectation of your privacy if you post something that indicates you are an unsafe pilot. An egregious example might be a post that indicates you intend to fly immediately after having consumed alcohol or illegal drugs. 
 
 ## Credits and license
 
@@ -92,6 +92,7 @@ _[This work is available to you to use, publish, and modify under the terms of t
 
 We are greatly appreciative of the multiple sources that we drew from to build this Code of Conduct, including:
 
+* [IETF Code of Conduct](https://github.com/bifurcation/ietf-slack-coc)
 * [TTS Code of Conduct](https://github.com/18F/code-of-conduct)
 * [Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct)
 * [Ada Initiative: HOWTO design a code of conduct for your community](http://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
@@ -106,4 +107,4 @@ We are greatly appreciative of the multiple sources that we drew from to build t
 * [Geek Feminism Wiki: Codes of Conduct Evaluations](http://geekfeminism.wikia.com/wiki/Code_of_conduct)
 * [Python Code of Conduct](https://www.python.org/psf/codeofconduct/)
 
-This code of conduct is based on [Design Systems Slack Code of Conduct](https://github.com/sushiandrobots/design-systems-slack), which is based on Annalee Flower Horne's [Sample Slack Code of Conduct](https://gist.github.com/annalee/2cddeff11357c3a8a613583ebca4dc17), which is in turn based on Geek Feminism's [Community Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy). We have adapted the Sample Slack Code of Conduct for our own use under the terms of the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
+This code of conduct was forked from [IETF Code of Conduct](https://github.com/bifurcation/ietf-slack-coc), is based on [Design Systems Slack Code of Conduct](https://github.com/sushiandrobots/design-systems-slack), which is based on Annalee Flower Horne's [Sample Slack Code of Conduct](https://gist.github.com/annalee/2cddeff11357c3a8a613583ebca4dc17), which is in turn based on Geek Feminism's [Community Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy). We have adapted the Sample Slack Code of Conduct for our own use under the terms of the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
