@@ -31,7 +31,8 @@ It would be impossible to list everything needed to create a welcoming, supporti
 3. Listen carefully and actively. Seek to understand each other's context - ask questions because you want to hear the answer.
 4. Every act of speech requires an act of listening; create an environment where people are encouraged to listen as much as they speak.
 5. Respect each others' time by doing research before asking questions that have been addressed before or in other channels.
-6. If you are a more senior pilot, consider that more junior pilots may want to learn on their own or do the research first before you provide them with information or unasked-for instruction. Let them ask first, or ask if they would like your thoughts. This helps to promote a culture of equity and respect for the level everyone is coming from.
+6. Consider that other pilots may want to learn on their own or do the research first before you provide them with information or unasked-for instruction. Let them ask first, or ask if they would like your thoughts. This helps to promote a culture of equity and respect for the level everyone is coming from.
+
 
 ## Unacceptable behavior
 
@@ -61,11 +62,13 @@ Examples of unacceptable behavior include:
 	* Mocking someone’s real or perceived accent or first language.
 * Retaliating against anyone who files a complaint that someone has violated this Code of Conduct.
 
+
 ## Reporting
 
 If you witness any inappropriate behavior, or have any other concerns, please contact [the admins](https://flightacademy.slack.com/account/workspace-settings#admins) by sending them a direct message. They'll respond as promptly as they can.
 
 The admins will respect confidentiality around issues. We will not name harassment victims without their affirmative consent.
+
 
 ## Consequences
 
@@ -73,16 +76,27 @@ Participants asked to stop any inappropriate behavior must comply immediately.
 
 If a participant engages in inappropriate behavior, the admins may take any action they deem appropriate, including warning the offender and removing them from the Slack entirely.
 
+
 ## Message Retention
 
-Because this is a free slack account, we have restricted scrollback, but Slack -- the company -- retains complete logs of all channels and direct messages back to the creation of this slack. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
+Because this is a free slack account, we have restricted scrollback, but Slack &mdash; the company &mdash; retains complete logs of all channels and direct messages back to the creation of this slack. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
 
 Since this Slack is intended to replace informal hallway/coffee hour conversations among pilots and aviation enthusiasts, messages sent here are generally intended to be ephemeral, as conversations would be. They will not be retained past the free Slack 10,000 message limit, and will expire as they're replaced by new messages.
 
+
 ## Privacy
 
+While the Flight Academy slack is a curated community, **please be mindful that things you say here may at some point become public.**  Membership is generally open, and any member can join a public channel.  We cannot prevent people from screencapping or otherwise logging this slack. We also can't guarantee that every member's login credentials and logged-in devices are secure. Files uploaded here can be downloaded by anyone with a login.
 
-**Please be mindful that things you say here may at some point become public.**  Membership is generally open, and any member can join a public channel.  We cannot prevent people from screencapping or otherwise logging this slack. We also can't guarantee that every member's login credentials and logged-in devices are secure. Files uploaded here can be downloaded by anyone with a login. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public. Be aware that we are all informed by and governed by the aviation administrations of our relative countries, such as the FAA and EASA. While this Slack is ephemeral and conversations will eventually expire, there is no guarantee of privacy if you post or speak about something here that may lead members of this Slack to believe that you would or intend to pilot a plane in an unsafe or illegal manner. There is no expectation that people should or must report you, but there is also no expectation of your privacy if you post something that indicates you are an unsafe pilot. An egregious example might be a post that indicates you intend to fly immediately after having consumed alcohol or illegal drugs.
+While this Slack is ephemeral and conversations will eventually expire, because screencaps and logs persist, there can be no privacy guarantees of any kind.
+
+
+### Privacy and Flight Safety
+
+Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public. Be aware that we are all informed by and governed by the aviation administrations of our relative countries, such as the FAA and EASA.
+
+If you post or speak about something here that may lead members of this Slack to believe that you would or intend to exercise your piloting privileges in an unsafe or illegal manner, there is no expectation that anyone should report you. However, if you indicate that you are an unsafe pilot, there should also be no expectation of privacy. An egregious example might be a post that indicates you intend to fly immediately after having consumed alcohol or illegal drugs.
+
 
 ## Credits and license
 
