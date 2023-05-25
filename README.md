@@ -3,6 +3,7 @@ Flight Academy Slack Code of Conduct
 
 ## Table of contents
 - [Welcome](#welcome)
+- [Our members](#our-members)
 - [What we strive for](#what-we-strive-for)
 - [Unacceptable behavior](#unacceptable-behavior)
 - [Reporting](#reporting)
@@ -19,6 +20,9 @@ We expect members of the Flight Academy community to act in a way that creates a
 
 As aviators we are used to reviewing and reflecting on our actions to improve for the future and to pass on lessons learned, and this Code of Conduct helps us do that as we relate to each other, not just as we fly planes.
 
+## Our members!
+
+This Slack is intended for people invited by our current members. We are open to all people who have at least a student pilot certificate. To invite someone, please run their name past one of the admins (currently JC Jones or Tarah Wheeler). In the unlikely event that they've either already been part of the Slack and left, or one of the members may not wish them to join, we can quietly prevent any awkwardness.
 
 ## Expected Behaviors
 
