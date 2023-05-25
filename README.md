@@ -22,7 +22,7 @@ As aviators we are used to reviewing and reflecting on our actions to improve fo
 
 ## Our members!
 
-This Slack is intended for people invited by our current members. We are open to all people who have at least a student pilot certificate. To invite someone, please run their name past one of the admins (currently JC Jones or Tarah Wheeler). In the unlikely event that they've either already been part of the Slack and left, or one of the members may not wish them to join, we can quietly prevent any awkwardness.
+This Slack is intended for people invited by our current members. We are open to all people who have at least a student pilot certificate. To invite someone, please run their name past one of the admins (currently J.C. Jones or Tarah Wheeler). In the unlikely event that they've either already been part of the Slack and left, or one of the members may not wish them to join, we can quietly prevent any awkwardness.
 
 ## Expected Behaviors
 
