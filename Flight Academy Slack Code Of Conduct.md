@@ -48,21 +48,21 @@ Examples of unacceptable behavior include:
 
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, age, body size, race, or religion.
 * Unwelcome comments regarding a person’s lifestyle practices, including those related to food, health, parenting, drugs, employment, and political views.
-* Gratuitous or off-topic sexual remarks, images or behavior
-* Deliberate intimidation
-* Sustained disruption of discussion
+* Gratuitous or off-topic sexual remarks, images or behavior.
+* Deliberate intimidation.
+* Sustained disruption of discussion.
 * Inappropriate attention or contact. Be aware of how your actions affect others. If it makes someone uncomfortable, stop.
-* Unwanted publication of private communication
+* Unwanted publication of private communication.
 * Intentionally or repeatedly referring to people in a way that rejects the validity of their gender identity; for instance, by using incorrect pronouns or forms of address (misgendering).
 * Microaggressions, which are small comments or questions, either intentional or unintentional, that marginalize people by communicating hostile, derogatory, or negative beliefs. Examples include:
-	* Patronizing language or behavior
-	* Pedantic corrections that don’t contribute to the conversation (For example: “Well actually’s…")
+	* Patronizing language or behavior.
+	* Pedantic corrections that don’t contribute to the conversation. (For example: “Well actually’s…")
 	* Assuming without asking that particular people or groups need concepts defined or explained to them. (It’s great to be sensitive to the fact that people may not be familiar with technical terms you use every day. But assuming that people are uninformed can come across as patronizing.)
-	* Assuming that particular groups of people are technically unskilled ("So easy your grandmother could do it.")
-	* Repeatedly interrupting or talking over someone else
-	* Feigning surprise at someone’s lack of knowledge or awareness about a topic
-	* The use of racially charged language to describe an individual or thing such as "thug" or “ghetto”
-	* Referring to an individual in a way that demeans or challenges the validity of their racial identity
+	* Assuming that particular groups of people are technically unskilled. ("So easy your grandmother could do it.")
+	* Repeatedly interrupting or talking over someone else.
+	* Feigning surprise at someone’s lack of knowledge or awareness about a topic.
+	* The use of racially charged language to describe an individual or thing such as "thug" or “ghetto”.
+	* Referring to an individual in a way that demeans or challenges the validity of their racial identity.
 	* Mocking someone’s real or perceived accent or first language.
 * Retaliating against anyone who files a complaint that someone has violated this Code of Conduct.
 
